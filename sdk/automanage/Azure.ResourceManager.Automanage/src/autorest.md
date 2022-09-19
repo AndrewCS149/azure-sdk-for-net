@@ -7,7 +7,7 @@ azure-arm: true
 csharp: true
 library-name: Automanage
 namespace: Azure.ResourceManager.Automanage
-require: https://github.com/Azure/azure-rest-api-specs/blob/main/specification/automanage/resource-manager/readme.md
+require: https://github.com/Azure/azure-rest-api-specs/blob/549bc277952e66577d69ce137eea810c9815ef22/specification/automanage/resource-manager/readme.md
 tag: package-2022-05
 output-folder: $(this-folder)/Generated
 clear-output-folder: true
